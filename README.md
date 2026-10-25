@@ -1,7 +1,7 @@
 # 🧠 LeidsonVect-SemanticLite
 
 ### Embeddings semânticos com PHP, SQLite e uma arquitetura leve.
-
+![image](https://i.imgur.com/PQn4dyH.png)
 **Transforme texto em vetores. Construa aplicações inteligentes. Simplifique sua infraestrutura.**
 
 O **LeidsonVect-SemanticLite** é um projeto experimental de processamento semântico que disponibiliza embeddings de texto por meio de uma API desenvolvida em PHP, utilizando vocabulários vetoriais pré-computados e armazenados em bancos SQLite.
