@@ -149,8 +149,8 @@ Modelos previstos na implementação:
 
 | Dimensão | Arquivo |
 |---|---|
-| 384D | `weights/weights_384.db` |
-| 768D | `weights/weights_768.db` |
+| 384D | `weights_384` |
+| 768D | `weights_768` |
 
 ### Exemplo de resposta
 
